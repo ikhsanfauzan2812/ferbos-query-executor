@@ -1,0 +1,11 @@
+{
+  "domain": "ferbos_query_executor",
+  "name": "Ferbos Query Executor",
+  "version": "1.0.0",
+  "documentation": "https://github.com/ikhsanfauzan2812/ferbos-query-executor",
+  "config_flow": true,
+  "requirements": ["aiosqlite>=0.19.0"],
+  "dependencies": ["websocket_api"],
+  "codeowners": ["@ikhsanfauzan2812"],
+  "iot_class": "local_polling"
+}

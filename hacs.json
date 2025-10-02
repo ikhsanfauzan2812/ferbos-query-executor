@@ -1,0 +1,7 @@
+{
+  "name": "Ferbos Query Executor",
+  "content_in_root": false,
+  "filename": "ferbos_query_executor.zip",
+  "render_readme": true,
+  "domains": ["ferbos_query_executor"]
+}
